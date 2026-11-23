@@ -23,7 +23,8 @@ Open http://localhost:8000. Native modules need an HTTP server; opening index.ht
 
 - `index.html`: semantic page structure and dialogs.
 - `styles.css`: responsive RTL/LTR styles.
-- `data.js`: Arabic/English text, preserved catalog, contact constants and embedded images.
+- `data.js`: Arabic/English text, preserved catalog, contact constants.
+- `logo.js` and `hero.js`: original embedded images, preserved byte-for-byte.
 - `cart.js`: pure cart normalization, pricing and saved-draft helpers.
 - `app.js`: menu, cart forms, validation, language switching and UI events.
 - `pwa.js`: install prompt and app icon/manifest setup.
