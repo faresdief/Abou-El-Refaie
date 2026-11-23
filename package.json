@@ -1,0 +1,27 @@
+{
+  "name": "abou-el-refaie",
+  "version": "1.0.0",
+  "description": "Arabic/English restaurant ordering interface demo",
+  "scripts": {
+    "test": "node --test tests/cart.test.js",
+    "test:browser": "playwright test",
+    "check": "node --check app.js && node --check data.js && node --check cart.js && node --check pwa.js && node --check sw.js",
+    "start": "python3 -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faresdief/Abou-El-Refaie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faresdief/Abou-El-Refaie/issues"
+  },
+  "homepage": "https://github.com/faresdief/Abou-El-Refaie#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1"
+  },
+  "private": true,
+  "type": "module"
+}
