@@ -1,4 +1,4 @@
-const CACHE = "abu-v2-modules";
+const CACHE = "abu-v3-modules";
 const ASSETS = [
   "./",
   "./index.html",
