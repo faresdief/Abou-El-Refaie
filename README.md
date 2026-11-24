@@ -2,6 +2,8 @@
 
 Arabic/English restaurant menu and WhatsApp draft interface, built with HTML, CSS and native JavaScript modules. There is no build step and no backend.
 
+**Live demo:** https://faresdief.github.io/Abou-El-Refaie/
+
 ## Demo status
 
 This is a demo interface, not a restaurant booking system or payment service. Prices, opening hours, availability and delivery fees are catalog content, not live restaurant data. Confirm them directly with the restaurant. The page does not confirm reservations or orders. Opening WhatsApp prepares a draft for the visitor to review and send manually. It does not prove a message was sent, delivered or accepted.
